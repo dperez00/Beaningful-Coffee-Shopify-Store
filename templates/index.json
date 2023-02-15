@@ -1,0 +1,158 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Try the worlds aromas"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner_image_main.jpg",
+        "desktop_text_box_position": "flex-end",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Our Favorites ❤",
+        "collection": "coffee",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false
+      }
+    },
+    "d6366318-5d02-43d5-b548-510d39214c61": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Learn more about coffee 💡",
+        "blog": "news",
+        "post_limit": 3,
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "soft_background": false,
+        "show_view_all": true
+      }
+    },
+    "image_text": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Coffee Club"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/product_pack-w.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "20f46eb8-a83a-4e62-92d8-9b50f4eb3578": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/Roasting-video.jpg",
+        "video_url": "https:\/\/player.vimeo.com\/video\/582023095?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+        "description": "",
+        "full_width": false
+      }
+    },
+    "62c42136-cfdf-46f7-8b8e-904e8752ebf0": {
+      "type": "collage",
+      "blocks": {
+        "template--17881178538267__62c42136-cfdf-46f7-8b8e-904e8752ebf0-1676417517aaa56032-1": {
+          "type": "product",
+          "settings": {
+            "product": "coffee-ethiopia",
+            "secondary_background": false,
+            "second_image": false,
+            "image_padding": false
+          }
+        },
+        "2c20fc4e-8b4a-4844-ac3f-e99559e58648": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/collage-section.png",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "b1ecc9ef-eefb-4892-8c21-68edcb437370": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/collage-section.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "template--17881178538267__62c42136-cfdf-46f7-8b8e-904e8752ebf0-1676417517aaa56032-1",
+        "2c20fc4e-8b4a-4844-ac3f-e99559e58648",
+        "b1ecc9ef-eefb-4892-8c21-68edcb437370"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "featured_products",
+    "d6366318-5d02-43d5-b548-510d39214c61",
+    "image_text",
+    "20f46eb8-a83a-4e62-92d8-9b50f4eb3578",
+    "62c42136-cfdf-46f7-8b8e-904e8752ebf0"
+  ]
+}
