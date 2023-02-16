@@ -124,11 +124,16 @@
         "show_image_outline": true,
         "show_vendor": false
       }
+    },
+    "b6890607-39f1-413c-9d90-af50b60cfc80": {
+      "type": "testimonial-slider",
+      "settings": {}
     }
   },
   "order": [
     "main",
     "affe9f4c-d9c2-4ee7-ad7b-1f7301501f0b",
-    "6adf5fab-1c1a-4325-a38b-20d8c9a05408"
+    "6adf5fab-1c1a-4325-a38b-20d8c9a05408",
+    "b6890607-39f1-413c-9d90-af50b60cfc80"
   ]
 }
