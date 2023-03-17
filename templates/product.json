@@ -148,10 +148,55 @@
     },
     "b6890607-39f1-413c-9d90-af50b60cfc80": {
       "type": "testimonial-slider",
-      "settings": {}
-    },
-    "b35bb8c4-d54b-4a95-a5c2-92ef5d779760": {
-      "type": "metafields",
+      "blocks": {
+        "9bf1bcff-26cf-4a25-b067-f7af78444f2a": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus varius quam sit amet velit egestas, at varius nibh semper.<\/p>",
+            "name": "Mike",
+            "image": "shopify:\/\/shop_images\/user_1.jpg"
+          }
+        },
+        "b28b2b6b-2e68-482a-bbef-c78b1d2c80ae": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus varius quam sit amet velit egestas, at varius nibh semper.<\/p>",
+            "name": "John",
+            "image": "shopify:\/\/shop_images\/user_4.jpg"
+          }
+        },
+        "0ae2f0ff-1de2-4ff6-9c84-5b44a7e77a6f": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus varius quam sit amet velit egestas, at varius nibh semper.<\/p>",
+            "name": "Linda",
+            "image": "shopify:\/\/shop_images\/user_5.jpg"
+          }
+        },
+        "afd9d60d-d9e4-43f5-a458-7c93b23385a1": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus varius quam sit amet velit egestas, at varius nibh semper.<\/p>",
+            "name": "Kate",
+            "image": "shopify:\/\/shop_images\/user_2.jpg"
+          }
+        },
+        "f7f2dbcd-7308-4534-aaa4-2a122a0e5273": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus varius quam sit amet velit egestas, at varius nibh semper.<\/p>",
+            "name": "Martin",
+            "image": "shopify:\/\/shop_images\/user_3.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "9bf1bcff-26cf-4a25-b067-f7af78444f2a",
+        "b28b2b6b-2e68-482a-bbef-c78b1d2c80ae",
+        "0ae2f0ff-1de2-4ff6-9c84-5b44a7e77a6f",
+        "afd9d60d-d9e4-43f5-a458-7c93b23385a1",
+        "f7f2dbcd-7308-4534-aaa4-2a122a0e5273"
+      ],
       "settings": {}
     }
   },
@@ -159,7 +204,6 @@
     "main",
     "affe9f4c-d9c2-4ee7-ad7b-1f7301501f0b",
     "6adf5fab-1c1a-4325-a38b-20d8c9a05408",
-    "b6890607-39f1-413c-9d90-af50b60cfc80",
-    "b35bb8c4-d54b-4a95-a5c2-92ef5d779760"
+    "b6890607-39f1-413c-9d90-af50b60cfc80"
   ]
 }

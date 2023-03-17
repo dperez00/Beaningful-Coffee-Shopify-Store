@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Try the worlds aromas"
+            "heading": "Try the world's aromas"
           }
         },
         "button": {
@@ -73,7 +73,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra arcu ligula, vitae interdum lorem posuere in. Vivamus sit amet massa tellus. Duis sit amet sem ultricies, aliquam massa quis, ornare lorem. Aliquam erat volutpat. <\/p>"
           }
         },
         "button": {
